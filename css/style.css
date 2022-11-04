@@ -33,3 +33,10 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+.footer{
+    background-color: gray;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}
